@@ -1,4 +1,7 @@
 # Basic Linear Algebra Concepts in AI : A Geometric Perspective
+<p align="center">
+  <img width="150" height="150" src="icon.webp">
+</p>
 
  This repository includes 2 short lessons in key concetps :
  - **1. Vector Algebra**
