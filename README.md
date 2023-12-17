@@ -7,7 +7,7 @@
  - **1. Vector Algebra**
  - **2. Matrices**
 
-## [Vector Algebra](Vector Algebra.ipynb)
+## [Vector Algebra](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/db42f93d3c0f20e48fc1e996a01c359256fbfa9a/Vector%20Algebra.ipynb)
 
 ### Highlights
 
@@ -15,7 +15,7 @@
 - **Vector Operations**: Detailed coverage of addition, subtraction, scalar multiplication, and dot product.
 - **Practical Applications**: Demonstrating vector algebra in AI, including text similarity analysis using cosine similarity.
 
-## [Matrices](Matrix as Linear Transformation.ipynb)
+## [Matrices](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/9ff6420efef9d5d868947bb1a133f174e80af9df/Matrix%20as%20Linear%20Transformation.ipynb)
 
 ### Core Topics
 
