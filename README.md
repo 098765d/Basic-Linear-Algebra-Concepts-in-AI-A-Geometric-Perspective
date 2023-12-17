@@ -7,7 +7,7 @@
  - **1. Vector Algebra**
  - **2. Matrices**
 
-## Lesson: Vector Algebra
+## [Vector Algebra](Vector Algebra.ipynb)
 
 ### Highlights
 
@@ -15,7 +15,7 @@
 - **Vector Operations**: Detailed coverage of addition, subtraction, scalar multiplication, and dot product.
 - **Practical Applications**: Demonstrating vector algebra in AI, including text similarity analysis using cosine similarity.
 
-## Lesson: Matrices
+## [Matrices](Matrix as Linear Transformation.ipynb)
 
 ### Core Topics
 
