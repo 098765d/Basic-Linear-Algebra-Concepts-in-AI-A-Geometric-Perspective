@@ -8,7 +8,7 @@ English ｜ [中文(简体)](README-zh-CN.md)
  - **1. Vector Algebra**
  - **2. Matrices**
 
-## [Vector Algebra](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/db42f93d3c0f20e48fc1e996a01c359256fbfa9a/Vector%20Algebra.ipynb)
+## [Vector Algebra](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/b0f52c9d510e8e50836032ad59e88cffab8eaeeb/Vector_Algebra.ipynb)
 
 ### Highlights
 
