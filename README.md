@@ -1,3 +1,4 @@
+English ｜ [中文(简体)](README-zh-CN.md)
 # Basic Linear Algebra Concepts in AI : A Geometric Perspective
 <p align="center">
   <img width="150" height="150" src="icon.webp">
@@ -28,7 +29,7 @@
 - **Matrix Rank and Determinants**: Discussing the importance of rank and the role of determinants in linear transformations.
 - **Eigenvalues and Eigenvectors**: Simplifying complex transformations, with applications like Markov matrices in web navigation.
 
---
+---
 This repository is inspired by [3Blue1Brown's Linear Algebra Series](https://www.3blue1brown.com/topics/linear-algebra) and [MIT OCW's Linear Algebra Course (18.06)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/).
 
 
