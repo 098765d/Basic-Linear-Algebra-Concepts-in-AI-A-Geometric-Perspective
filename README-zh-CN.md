@@ -15,7 +15,7 @@
 - **向量操作详解**：深入介绍了向量的加法、减法、标量乘法和点积运算。
 - **实际应用示例**：演示了在AI中应用向量代数的方法，包括使用余弦相似度进行文本相似性分析。
 
-## [矩阵](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/9ff6420efef9d5d868947bb1a133f174e80af9df/Matrix%20as%20Linear%20Transformation.ipynb)
+## [矩阵](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/97a3d69aa711928e5887e2617e5a24398453e3ad/Matrix_as_Linear_Transformation.ipynb)
 
 ### 核心主题
 
