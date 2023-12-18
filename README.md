@@ -8,7 +8,7 @@ English ｜ [中文(简体)](README-zh-CN.md)
  - **1. Vector Algebra**
  - **2. Matrices**
 
-## [Vector Algebra](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/b0f52c9d510e8e50836032ad59e88cffab8eaeeb/Vector_Algebra.ipynb)
+## [Vector Algebra](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/97a3d69aa711928e5887e2617e5a24398453e3ad/Vector_Algebra.ipynb)
 
 ### Highlights
 
@@ -16,7 +16,7 @@ English ｜ [中文(简体)](README-zh-CN.md)
 - **Vector Operations**: Detailed coverage of addition, subtraction, scalar multiplication, and dot product.
 - **Practical Applications**: Demonstrating vector algebra in AI, including text similarity analysis using cosine similarity.
 
-## [Matrices](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/9ff6420efef9d5d868947bb1a133f174e80af9df/Matrix%20as%20Linear%20Transformation.ipynb)
+## [Matrices](https://github.com/098765d/Basic-Linear-Algebra-Concepts-in-AI-A-Geometric-Perspective/blob/97a3d69aa711928e5887e2617e5a24398453e3ad/Matrix_as_Linear_Transformation.ipynb)
 
 ### Core Topics
 
